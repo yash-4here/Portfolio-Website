@@ -1,5 +1,9 @@
 # Fusionfolio
 
+## Live Demo
+
+[Yash Vardhan's portfolio](https://tasty-absolute-691889.framer.app/)
+
 A portfolio website inspired by the **Fusion page of DaVinci Resolve**.
 
 Instead of traditional navigation menus, the portfolio is built around a node-based workflow where every section is represented as a connected node. Selecting a node updates the Inspector panel, recreating the experience of working inside DaVinci Resolve's Fusion interface while showcasing my work as a video editor and motion designer.
@@ -39,9 +43,6 @@ CONTACT
 - Interactive Variants
 - Responsive Layouts
 
-## Live Demo
-
-[Add your published Framer URL here.](https://tasty-absolute-691889.framer.app/)
 
 ## Creator
 
