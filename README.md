@@ -57,5 +57,8 @@ Video Editor • Motion Designer • Computer Science Student
 
 ## One over another comparison of the official software's UI and my Website's UI
 
-**FUSION UI**
+***WEBSITE UI :***
+![image alt](https://github.com/yash-4here/Portfolio-Website/blob/f1c2eb86693dc50336422517f122bf09b6b65124/screenshots/website%20ui.png)
+
+***FUSION UI :***
 ![image alt](https://github.com/yash-4here/Portfolio-Website/blob/a3e3d88d24e3df78e38234b664101aff08a2c4be/screenshots/fusion%20UI.png)
